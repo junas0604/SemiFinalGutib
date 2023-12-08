@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gutib Semi Final</string>
+    <string name="results_will_appear_here">Results will appear here</string>
+    <string name="delete_tweet">Delete Tweet</string>
+</resources>
